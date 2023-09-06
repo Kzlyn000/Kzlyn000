@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kzlyn000
-- 🌱 I’m currently learning mechatronics engineering
+- 🌱 I’m currently studying mechatronics engineering
 
 <!---
 Kzlyn000/Kzlyn000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
